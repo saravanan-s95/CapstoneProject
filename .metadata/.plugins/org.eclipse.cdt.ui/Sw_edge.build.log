@@ -1,0 +1,10 @@
+23:54:12 **** Incremental Build of configuration Debug for project Sw_edge ****
+make -j8 all 
+arm-none-eabi-size  Sw_edge.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6168	     12	   1572	   7752	   1e48	Sw_edge.elf
+Finished building: default.size.stdout
+ 
+
+23:54:14 Build Finished. 0 errors, 0 warnings. (took 1s.640ms)
+

@@ -1,0 +1,17 @@
+../Core/Src/main.c:102:10:CalculateCRC16	4
+../Core/Src/main.c:124:13:LCD_WriteCommand	1
+../Core/Src/main.c:137:13:LCD_WriteData	1
+../Core/Src/main.c:149:6:LCD_Init	1
+../Core/Src/main.c:166:6:LCD_Clear	1
+../Core/Src/main.c:170:6:LCD_SetCursor	2
+../Core/Src/main.c:175:6:LCD_Print	2
+../Core/Src/main.c:180:6:UpdateDisplay	1
+../Core/Src/main.c:204:10:Read_ADC	2
+../Core/Src/main.c:223:6:Modbus_ProcessRequest	5
+../Core/Src/main.c:270:5:main	5
+../Core/Src/main.c:373:6:SystemClock_Config	4
+../Core/Src/main.c:417:13:MX_ADC1_Init	3
+../Core/Src/main.c:464:13:MX_I2C1_Init	2
+../Core/Src/main.c:498:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:531:13:MX_GPIO_Init	1
+../Core/Src/main.c:597:6:Error_Handler	1

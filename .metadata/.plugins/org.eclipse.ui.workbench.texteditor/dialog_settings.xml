@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="hal_get"/>
+		<item value="printf"/>
+		<item value="UART_t"/>
+		<item value="tty"/>
+		<item value="slave"/>
+		<item value="Modbus_ProcessRequest"/>
+		<item value="read"/>
+		<item value="holdingRegisters"/>
+		<item value="MX_I2C1_Init("/>
+		<item value="cycle"/>
+		<item value="REG_PRESSURE"/>
+		<item value=" TIM2_Ini"/>
+		<item value="TriggerCallback"/>
+		<item value="callback"/>
+	</list>
+</section>
